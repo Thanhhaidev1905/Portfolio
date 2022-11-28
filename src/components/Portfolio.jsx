@@ -1,18 +1,20 @@
 import React from "react";
+import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import usestate from "../assets/portfolio/usestate.jpg";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: "",
-      href: "",
-      code: "https://github.com/Thanhhaidev1905/my-portfolio.git",
+      src: reactSmooth,
+      href: "https://extraordinary-dolphin-ca0f2d.netlify.app",
+      code: "https://github.com/Thanhhaidev1905/Portfolio.git",
     },
     {
       id: 2,
-      src: "",
-      href: "",
-      code: "",
+      src: usestate,
+      href: "https://idyllic-chimera-fc09bd.netlify.app",
+      code: "https://github.com/Thanhhaidev1905/Books-Stores.git",
     },
   ];
 
