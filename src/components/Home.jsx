@@ -13,13 +13,15 @@ const Home = () => {
       <div className="  max-w-screen-lg flex flex-col items-center justify-center mx-auto mt-9 h-full px-8 md:flex-row ">
         <div className=" flex flex-col justify- w-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a FrontEnd Developer
+            I'm a ReactJs Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Lorem ipsum dolor sit amet consectetur adipisix`cing
-            elit.Voluptatibus aperiam sequi, reprehenderit excepturi harum
-            nihilipsum nemo labore laborum veritatis quia quibusdam ullam, sit,
-            placeat officiis optio sint aut fugiat!
+            I’m Hai! Call me Harry. I’m 25 years old. I was born and grew up in
+            Vung Tau province, but I have been working in HCM City.
+            <br /> - Over 6 months of experience in programming with good
+            communication and quick learning skills.
+            <br /> - Educate: 2019 - 2021: Thu Duc Technology College. Major is
+            Information Technologyc
           </p>
 
           <div>

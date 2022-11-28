@@ -12,18 +12,19 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
-          I’m Hai! Call me Harry. I’m 25 years old. I was born and grew up in
-          Vung Tau province, but I have been working in HCM City.
-        </p>
+        <p className="text-xl mt-20"></p>
         <br />
         <p className="text-xl">
-          I’m active. I like work related to human beings and . I’m rather
-          serious and sensitive, I can quickly catch up psychology of other
-          people as an avid learner, there is always a spirit of progressive,
-          sociable, enthusiastic, fun, .... I prefer to work in a smaller team
-          where I can see the direct impact I have on a project, that’s the
-          reason why I applied for this job to you today…
+          - I like work related to human and technology. I am an avid learner,
+          there is always a spirit of progressive, sociable, enthusiastic, fun,
+          ....
+          <br /> - I prefer to work in a team where I can see the direct impact
+          I’m active. I like work related to human beings and Technology. I’m
+          rather serious and sensitive, I can quickly catch up psychology of
+          other people as an avid learner, there is always a spirit of
+          progressive, sociable, enthusiastic, fun, ....
+          <br /> - I have on a project, that’s the reason why I applied for this
+          job to you today…
         </p>
       </div>
     </div>
