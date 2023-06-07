@@ -1,20 +1,27 @@
 import React from "react";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import usestate from "../assets/portfolio/usestate.jpg";
+import portfolio from "../assets/portfolio/portfolio.png";
+import bookstore from "../assets/portfolio/bookstore.png";
+import pawnshop from "../assets/portfolio/pawnshop.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: reactSmooth,
+      src: portfolio,
       href: "https://extraordinary-dolphin-ca0f2d.netlify.app",
       code: "https://github.com/Thanhhaidev1905/Portfolio.git",
     },
     {
       id: 2,
-      src: usestate,
+      src: bookstore,
       href: "https://idyllic-chimera-fc09bd.netlify.app",
       code: "https://github.com/Thanhhaidev1905/Books-Stores.git",
+    },
+    {
+      id: 3,
+      src: pawnshop,
+      href: "https://pawnshop-fe.vercel.app/",
+      code: "https://github.com/Thanhhaidev1905/pawn-shop-admin-dashboard.git",
     },
   ];
 
