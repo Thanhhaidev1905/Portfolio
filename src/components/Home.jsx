@@ -18,8 +18,8 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I’m Hai! Call me Harry. I’m 25 years old. I was born and grew up in
             Vung Tau province, but I have been working in HCM City.
-            <br /> - Over 6 months of experience in programming with good
-            communication and quick learning skills.
+            <br /> - Over 1 YoE in programming with good communication and quick
+            learning skills.
             <br /> - Educate: 2019 - 2021: Thu Duc Technology College. Major is
             Information Technologyc
           </p>
